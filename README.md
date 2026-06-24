@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Harshita
+## Hi there 👋
 
 🔐 **Cybersecurity Student | Network Security Enthusiast | CTF Competitor**
 
