@@ -1,33 +1,93 @@
-## Hi there 👋
-# 💫 About Me:
-🔐 Cybersecurity Student | Network Enthusiast | CTF Challenger<br>🚀 About Me<br><br>🎓 Pursuing Cybersecurity with a strong focus on networking fundamentals<br>🌱 Learning Linux, Python, Cryptography, and Security Concepts<br>🏴 Practicing CTFs and hands-on cybersecurity labs<br>📡 Interested in Network Security, Web Security, and Threat Analysis<br>🔍 Passionate about understanding how systems communicate and how they can be secured<br><br>💡 Building strong foundations today for advanced security research tomorrow.
+## Hi there 👋, I'm Harshita
 
+🔐 **Cybersecurity Student | Network Security Enthusiast | CTF Competitor**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshita Negi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshita.n008@protonmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HarshitaNegi82&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=HarshitaNegi82&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshitaNegi82&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
+
+🎓 Cybersecurity student focused on building strong foundations in networking, system security, and cybersecurity.
+
+🌱 Currently learning:
+
+* Linux Administration
+* Python for Automation & Security
+* Computer Networks (TCP/IP, DNS, Routing & Switching)
+* Cryptography & Security Fundamentals
+
+🏴 Actively practicing through:
+
+* Capture The Flag (CTF) Challenges
+* Hands-on Security Labs
+* Network Analysis Exercises
+* Security Research
+
+📡 Areas of Interest:
+
+* Network Security
+* Web Security
+* Threat Analysis
+* Digital Forensics
+* Security Operations
+
+🔍 I enjoy understanding how systems communicate, identifying potential security weaknesses, and continuously expanding my cybersecurity knowledge.
+
+💡 *Building strong foundations today for advanced security research tomorrow.*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:harshita.n008@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=HarshitaNegi82\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://streak-stats.demolab.com?user=HarshitaNegi82\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaNegi82\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarshitaNegi82&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**HarshitaNegi82/HarshitaNegi82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-profile-trophy.vercel.app/?username=HarshitaNegi82\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshitaNegi82&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <i>"Learn. Analyze. Secure."</i>
+</p>
