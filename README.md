@@ -1,40 +1,43 @@
 ## Hi there 👋
 
-🔐 **Cybersecurity Student | Network Security Enthusiast | CTF Competitor**
-
 ---
 
 ## 🚀 About Me
 
-🎓 Cybersecurity student focused on building strong foundations in networking, system security, and cybersecurity.
+🎓 Computer Science student focused on building strong foundations in **Cloud Engineering, AWS, Linux, networking, and cloud security**.
 
 🌱 Currently learning:
 
-* Linux Administration
-* Python for Automation & Security
-* Computer Networks (TCP/IP, DNS, Routing & Switching)
-* Cryptography & Security Fundamentals
+- AWS Cloud Services — IAM, EC2, S3, VPC, CloudFront & Lambda
+- Linux Administration & Bash
+- Computer Networks — TCP/IP, DNS, SSH, Routing & Networking
+- Cloud Security & the AWS Shared Responsibility Model
+- Python for Automation
 
-🏴 Actively practicing through:
+☁️ Actively practicing through:
 
-* Capture The Flag (CTF) Challenges
-* Hands-on Security Labs
-* Network Analysis Exercises
-* Security Research
+- AWS Skill Builder hands on labs
+- Cloud deployment projects
+- Linux and networking exercises
+- Cloud security practice
+- Troubleshooting real AWS configuration and permission issues
 
-📡 Areas of Interest:
+🔧 Areas of Interest:
 
-* Network Security
-* Web Security
-* Threat Analysis
-* Digital Forensics
-* Security Operations
+- Cloud Engineering
+- AWS Infrastructure
+- Cloud Security
+- Identity & Access Management (IAM)
+- Network Security & VPC
+- Infrastructure Security
+- Cloud Automation
 
-🔍 I enjoy understanding how systems communicate, identifying potential security weaknesses, and continuously expanding my cybersecurity knowledge.
+🔍 I enjoy understanding how cloud infrastructure works, deploying services on AWS, troubleshooting configuration and permission issues, and learning how security can be built into cloud environments.
 
-💡 *Building strong foundations today for advanced security research tomorrow.*
+💡 *Building strong cloud foundations today, with a focus on secure and reliable cloud infrastructure.*
 
----
+
+
 
 ## 🌐 Connect With Me
 
